@@ -27,7 +27,7 @@ UPLOAD_URL = "https://upload.ibroadcast.com/"
 
 NAME = "iUploader"
 VERSION = "0.1"
-APP_ID = 1014
+APP_ID = 1007
 
 USER_AGENT = f"{NAME} {VERSION}"
 CLIENT = NAME
